@@ -1,0 +1,22 @@
+{
+  "name": "Generator Pormp",
+  "short_name": "Generator Pormp",
+  "description": "Aplikacja, która pomaga na podstawie kilku słów stworzyć szczegółowy monit.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#121212",
+  "theme_color": "#1e1e1e"
+}
